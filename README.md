@@ -9,4 +9,4 @@
   
   PRACTICAL-2
   Summary:
-  In this practical,we implemented Linear search and Binary search and compare there execution times.We observe that Linear search has time complexity
+  In this practical,we implemented Linear search and Binary search and compare there execution times.We observe that Linear search has time complexity 
