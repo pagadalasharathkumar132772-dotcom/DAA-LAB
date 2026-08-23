@@ -25,3 +25,8 @@
  In this practical,we implemented the factorial program using iterative and recursive methods and compared their execution.Both methods give the same result,but they work    differently.The time complexity of both method is O(n).
  Conclusion:
  Through this practical,we lerned how to calculate factorial using both methods.The iterative method uses a loop,while the recursive method uses function calls.Both have     O(n) time complexity,but the iterative method generally uses less memory.
+
+
+ PRACTICAL-7
+ Summary:
+ 
