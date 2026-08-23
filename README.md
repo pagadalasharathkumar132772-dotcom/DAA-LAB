@@ -29,4 +29,8 @@
 
  PRACTICAL-7
  Summary:
+ In this practical,we implemented the Coin Change Problem using Dynamic Programming.The program finds the minimum number of coins needed to make a given amount.Dynamic       Programming avoids repeated calculations and improves the efficiency of the solution.
+ Conclusion:
+ Through this practical,we learned how Dynamic Programming can be used to solve the Coin Change Problem efficiently.It gives the minimum number of coins required and works   well for larger amount compared to simple recursive methods.
+ 
  
