@@ -35,11 +35,9 @@
  
  PRACTICAL-5
  Summary: The program uses Dynamic Programming to solve the 0/1 Knapsack problem by building a table of maximum values for different capacities and items.
-
 Conclusion: The algorithm efficiently determines the maximum value that can be obtained without exceeding the given knapsack capacity.
 
 PRACTICAL-6
 Summary: The program uses Dynamic Programming to find the optimal order of multiplying a sequence of matrices with minimum scalar multiplications.
-
 Conclusion: The algorithm reduces unnecessary computations by selecting the best parenthesization, thereby minimizing the total multiplication cost.
  
