@@ -40,4 +40,8 @@ Conclusion: The algorithm efficiently determines the maximum value that can be o
 PRACTICAL-6
 Summary: The program uses Dynamic Programming to find the optimal order of multiplying a sequence of matrices with minimum scalar multiplications.
 Conclusion: The algorithm reduces unnecessary computations by selecting the best parenthesization, thereby minimizing the total multiplication cost.
- 
+
+
+PRACTIACL-8:
+Summary:In this practical, we implemented Graph Traversal using DFS and BFS. DFS explores a graph by going deep into one path, while BFS visits nodes level by level. We also understood their basic working and time complexity of O(V + E).
+Conclusion:Through this practical, we learned how DFS and BFS are used to search and traverse graphs. Both have O(V + E) time complexity, but DFS uses a stack/recursion, while BFS uses a queue.
