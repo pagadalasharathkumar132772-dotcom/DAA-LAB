@@ -48,3 +48,7 @@ Conclusion:Through this practical, we learned how DFS and BFS are used to search
 PRACTICAL-9:
 Summary:In this practical, we implemented Prim’s Algorithm to find the Minimum Spanning Tree (MST) of a weighted graph. The algorithm selects the minimum-weight edge step by step and connects all vertices. 
 Conclusion:Through this practical, we learned how Prim’s Algorithm finds the minimum spanning tree efficiently. It connects all vertices with minimum total edge weight without forming a cycle.
+
+PRACTICAL-10
+Summary:In this practical, we implemented Kruskal’s Algorithm to find the Minimum Spanning Tree (MST) of a weighted graph. The algorithm selects the edges with the smallest weight one by one and avoids cycles.
+Conclusion:Through this practical, we learned how Kruskal’s Algorithm connects all vertices with the minimum total edge weight without forming cycles. It is useful for finding the Minimum Spanning Tree of a weighted graph.
