@@ -52,3 +52,11 @@ Conclusion:Through this practical, we learned how Prim’s Algorithm finds the m
 PRACTICAL-10
 Summary:In this practical, we implemented Kruskal’s Algorithm to find the Minimum Spanning Tree (MST) of a weighted graph. The algorithm selects the edges with the smallest weight one by one and avoids cycles.
 Conclusion:Through this practical, we learned how Kruskal’s Algorithm connects all vertices with the minimum total edge weight without forming cycles. It is useful for finding the Minimum Spanning Tree of a weighted graph.
+
+Practical-11
+Summary: In this practical, we implemented the Floyd–Warshall algorithm to find the shortest distances between all pairs of vertices in a graph. It uses Dynamic Programming to update distances through intermediate vertices. 
+Conclusion: Through this practical, we learned how the Floyd–Warshall algorithm finds the shortest paths between all pairs of vertices. It is useful for weighted graphs and handles negative edge weights when there are no negative cycles.
+
+Practical-12
+Summary: In this practical, we implemented the Travelling Salesman Problem to find the minimum-cost tour that visits every city exactly once and returns to the starting city. We compared possible routes to find the minimum cost. 
+Conclusion: Through this practical, we learned how to find the minimum-cost route for visiting all cities and returning to the starting point. The brute-force method checks all possible tours, so it becomes slow when the number of cities increases.
